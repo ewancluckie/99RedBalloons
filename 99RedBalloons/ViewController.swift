@@ -9,6 +9,10 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    @IBOutlet weak var balloonsLabel: UILabel!
+    @IBOutlet weak var backgroundImageView: UIImageView!
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -20,6 +24,10 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func nextBalloonBarButtonPressed(sender: UIBarButtonItem) {
+        
+        
+    }
 
 }
 
