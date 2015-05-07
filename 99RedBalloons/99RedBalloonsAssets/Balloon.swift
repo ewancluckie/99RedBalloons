@@ -7,10 +7,12 @@
 //
 
 import Foundation
+import UIKit
 
 struct Balloon {
   
-    
+    var balloonNumber = 0
+    var balloonImage = UIImage(named: "")
     
 }
 

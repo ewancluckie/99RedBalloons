@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>136C4659-1591-4906-BF4E-69CFCC17DEBE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>99RedBalloons</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>16D65A596216579BD17ECE74518DA5CDB47E0998</key>
+		<string>https://github.com/ewancluckie/99RedBalloons.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>99RedBalloons.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>16D65A596216579BD17ECE74518DA5CDB47E0998</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ewancluckie/99RedBalloons.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>16D65A596216579BD17ECE74518DA5CDB47E0998</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>16D65A596216579BD17ECE74518DA5CDB47E0998</string>
+			<key>IDESourceControlWCCName</key>
+			<string>99RedBalloons</string>
+		</dict>
+	</array>
+</dict>
+</plist>
